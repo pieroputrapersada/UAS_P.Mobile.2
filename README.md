@@ -5,8 +5,8 @@
 ## Profil
 | #               | Biodata                  |
 | --------------- | --------------------     |
-| **Nama**        | Muhamad Suryanegara      |
-| **NIM**         | 312110447                |
+| **Nama**        | piero putra persada      |
+| **NIM**         | 312110036                |
 | **Kelas**       | TI.21.A.1                |
 | **Mata Kuliah** | Pemrograman Mobile 2     |
 
@@ -118,7 +118,8 @@ dependencies:
 
 ## Berikut adalah hasilnya
 
-![image](https://github.com/Muhamadsuryanegara/UAS_P.Mobile.2/assets/92678339/79d60c31-97bb-442e-88ef-40a8efbace24)
+![Screenshot 2023-07-09 131819](https://github.com/pieroputrapersada/UAS_P.Mobile.2/assets/134897710/3128e976-3671-4dba-930f-efeed02731e1)
+
 
 
 
